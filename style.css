@@ -14,6 +14,10 @@ h4 {
     font-size: 20px !important;
 }
 
+.figure-label {
+    text-align: center;
+}
+
 header {
     background-image: url('https://assets.taraenergy.com/wp-content/uploads/2021/10/electromagnetic-energy-force-demonstrated-illustration.jpg');
     background-size: cover;
@@ -42,11 +46,6 @@ header {
 
 .content {
     margin: 5vw 3vw;
-}
-
-.col-8 {
-    /* height: 50vw;
-    overflow-y: auto; */
 }
 
 .about-me {
@@ -82,4 +81,8 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.device-card img {
+    max-height: 15vw;
 }
